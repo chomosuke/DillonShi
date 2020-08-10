@@ -24,3 +24,6 @@ in this case if n == 3, somefunction will be executed
 somefunction() is passed into .if() as a parameter (kind of like function pointer in c)
 
 and i feel like this would just be a clone of smalltalk...
+
+proposal 2:
+let's just create a language that's like c but with function overloading and memory management and no MACRO and that sort of bs and maybe we can make a OOP version of it sometimes in the future.
