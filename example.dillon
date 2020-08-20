@@ -1,0 +1,26 @@
+using standardIO library.
+
+declare divide Int1:
+    output(or you can make it return if you want) divide Int1 by 2.
+
+declare Int1 to the power of Int2:
+    Result is Int1.
+    while Int2 is bigger than 0, keep doing:
+        Result is Result times Int1.
+        Int2 is Int2 minus 1.
+    output Result.
+
+(note this is a comment)
+
+declare main:
+    write "hello" to console.
+    Int2 is divide 2. (note this returns 1)
+
+    string Str1 is "Str1 ".
+    concatenate Str1 with "Str2 " and "Str3".
+
+(indentation will be a part of our syntax, 
+otherwise ending everywhere would not be very pleasant
+
+preferable a full stop after each statement cause that
+look nice but i guess you can do without)
